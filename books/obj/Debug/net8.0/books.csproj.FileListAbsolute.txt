@@ -1,0 +1,11 @@
+/home/miguel/DAEA/S05/parte1/kafka-csharp/books/bin/Debug/net8.0/books.deps.json
+/home/miguel/DAEA/S05/parte1/kafka-csharp/books/bin/Debug/net8.0/books.dll
+/home/miguel/DAEA/S05/parte1/kafka-csharp/books/bin/Debug/net8.0/books.pdb
+/home/miguel/DAEA/S05/parte1/kafka-csharp/books/obj/Debug/net8.0/books.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/DAEA/S05/parte1/kafka-csharp/books/obj/Debug/net8.0/books.AssemblyInfoInputs.cache
+/home/miguel/DAEA/S05/parte1/kafka-csharp/books/obj/Debug/net8.0/books.AssemblyInfo.cs
+/home/miguel/DAEA/S05/parte1/kafka-csharp/books/obj/Debug/net8.0/books.csproj.CoreCompileInputs.cache
+/home/miguel/DAEA/S05/parte1/kafka-csharp/books/obj/Debug/net8.0/books.dll
+/home/miguel/DAEA/S05/parte1/kafka-csharp/books/obj/Debug/net8.0/refint/books.dll
+/home/miguel/DAEA/S05/parte1/kafka-csharp/books/obj/Debug/net8.0/books.pdb
+/home/miguel/DAEA/S05/parte1/kafka-csharp/books/obj/Debug/net8.0/ref/books.dll
